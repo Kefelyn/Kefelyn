@@ -1,8 +1,6 @@
 
 # Kefelyn Vitoria
-Welcome! I'm Kefelyn. Tenho 20 anos e estou cursando o 4º semestre em Análise e Desenvolvimento de Sistemas.
-
-Também estou estudando Java na faculdade, Banco de Dados Relacionais (Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL) no curso Udemy e Power Bi Analyst através do BootCamp da DIO.
+Welcome! I'm Kefelyn. Tenho 21 anos e sou formada em Análise e Desenvolvimento de Sistemas.
 
 ## Em aprendizagem
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)

@@ -1,25 +1,35 @@
 
-# Kefelyn Vitoria
-Welcome! I'm Kefelyn. Tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas.
+# <p align="center"> Kefelyn Vitoria 👩🏾‍💻</p>
 
-## Em aprendizagem
-![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%234B275F.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-%234B275F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**`Desenvolvedora Front-End`**
 
-## Vamos nos conectar!
-[![DIO](https://img.shields.io/badge/Perfil_na_DIO-%23000000.svg?style=for-the-badge&logo=DIO&logoColor=white)](https://www.dio.me/users/kefelyn_vitoria4)
-[![Instagram](https://img.shields.io/badge/Instagram-%234B275F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ups_keffy/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/)
-[![Discord](https://img.shields.io/badge/Discord-%234B275F.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@hyuffy/)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198855809548)
-[![E-mail](https://img.shields.io/badge/-Email-%234B275F.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kefelyn.vitoria4@gmail.com)
+Olá! Eu sou a [Kefelyn Vitoria](https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/), tenho 22 anos e sou de São Paulo/Capital. Me formei recentemente em Análise e Desenvolvimento de Sistemas na USP, e no momento, estou me dedicando em aprender e aperfeiçoar: HTML, CSS e JavaScript pelo site da DIO, tendo em vista o React como futuro objetivo.
 
-## Estatísticas GitHub
-![Kefelyn](https://github-readme-stats.vercel.app/api?username=Kefelyn&show_icons=true&theme=midnight-purple)
+<p align="center"> 
+<a href="https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=7950F2"/></a>
+<a href="mailto:kefelyn.vitoria4@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=38158&format=png&color=7950F2"/></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kefelyn&layout=compact&theme=midnight-purple)
+---
 
-## Contribuições - BootCamp's | LAB DIO
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kefelyn&repo=dio-lab-open-source&theme=midnight-purple)](https://github.com/Kefelyn/dio-lab-open-source)
+### Linguagens e Tecnologias 🤖
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+
+### Estatísticas 📊
+
+<p>
+<img align="left" 
+alt="GitHub Stats" 
+height="140" 
+style="padding-right: 10px;" 
+src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kefelyn&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&include_all_commits=true&locale=pt-br"
+/>
+
+<img align="rigth" 
+alt="GitHub Stats" 
+height="140" 
+src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kefelyn&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</p>

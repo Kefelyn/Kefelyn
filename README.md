@@ -6,8 +6,9 @@
 Olá! Eu sou a [Kefelyn Vitoria](https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/), tenho 22 anos e sou de São Paulo/Capital. Me formei recentemente em Análise e Desenvolvimento de Sistemas na USP, e no momento, estou me dedicando em aprender e aperfeiçoar: HTML, CSS e JavaScript pelo site da DIO, tendo em vista o React como futuro objetivo.
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=7950F2"/></a>
-<a href="mailto:kefelyn.vitoria4@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=38158&format=png&color=7950F2"/></a>
+<a href="https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/"><img style="padding-right: 10px;" width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=7950F2"/></a>
+<a href="mailto:kefelyn.vitoria4@gmail.com"><img style="padding-right: 10px;" width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=38158&format=png&color=7950F2"/></a> 
+<a href="https://web.dio.me/users/kefelyn_vitoria4?tab=achievements"><img style="padding-right: 10px;" width="70px" alt="Gmail" title="Gmail" src="https://c5gwmsmjx1.execute-api.us-east-1.amazonaws.com/prod/dados_processo_seletivo/logo_empresa/119818/LOGO-DIO-COLOR.png_name_20221031-2831-ekn5hh.png"/></a>
 </p>
 
 ---

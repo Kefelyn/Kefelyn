@@ -3,7 +3,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Eu sou a [Kefelyn Vitoria](https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/), tenho 22 anos e sou de São Paulo/Capital. Me formei recentemente em Análise e Desenvolvimento de Sistemas na USP, e no momento, estou me dedicando em aprender e aperfeiçoar: HTML, CSS e JavaScript pelo site da DIO, tendo em vista o React como futuro objetivo.
+Olá! Eu sou a [Kefelyn Vitoria](https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/), tenho 22 anos e sou de São Paulo/Capital. Me formei recentemente em Análise e Desenvolvimento de Sistemas na USP, e a continuamente estou me dedicando em aprimorar minhas habilidades técnicas no desenvolvimento Front-End.
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/kefelyn-vitoria-a9565312a/"><img style="padding-right: 10px;" width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=7950F2"/></a>
@@ -15,9 +15,12 @@ Olá! Eu sou a [Kefelyn Vitoria](https://www.linkedin.com/in/kefelyn-vitoria-a95
 
 ### Linguagens e Tecnologias 🤖
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Estatísticas 📊
 
